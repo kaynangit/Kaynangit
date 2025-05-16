@@ -12,7 +12,7 @@ Sou estudante de T.I e atualmente estou focado em me tornar um **desenvolvedor b
 
 ### 🔍 Projetos:
 
-- [**Tutor**](https://github.com/seu-usuario/tutor) – Assistente acadêmico com foco em IA *(em desenvolvimento)*  
+- [**Tutor**](https://github.com/fabrica-bayarea/Tutor.git) – Assistente acadêmico com foco em IA *(em desenvolvimento)*  
 - [**Exercícios em Python**](https://github.com/seu-usuario/exercicios-python) – Lógica, algoritmos e desafios resolvidos  
 
 ---
